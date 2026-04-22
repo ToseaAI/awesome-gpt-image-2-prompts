@@ -282,11 +282,16 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     parts.append('<details>')
     parts.append(f'<summary><b>{s.prompt_label}</b> — {s.show_prompt}</summary>')
     parts.append("")
-    parts.append('```text')
-    # Prompts may contain backticks; the triple-backtick-text fence is
-    # resilient unless the prompt itself contains ``` which our seed doesn't.
-    parts.append(e["prompt"].strip())
-    parts.append('```')
+    # Use <blockquote> rather than a fenced code block so long prompts wrap
+    # naturally. Fenced blocks apply `white-space: pre` + `overflow-x: auto`,
+    # which on macOS silently hides the horizontal scrollbar — readers see
+    # only the first line of a 600-char prompt with no cue the rest exists.
+    # Blockquote wraps and retains visual distinction. Trade-off: we lose
+    # the GitHub-provided copy button; readers do a triple-click + Cmd+C.
+    # All 60 prompts are single-paragraph, so newline preservation is moot.
+    parts.append(
+        f'<blockquote>{html.escape(e["prompt"].strip())}</blockquote>'
+    )
     parts.append("")
     parts.append('</details>')
     parts.append("")
