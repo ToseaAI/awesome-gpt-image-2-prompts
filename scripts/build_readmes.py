@@ -88,7 +88,7 @@ STRINGS = {
         title="Awesome GPT Image 2 Prompts",
         tagline="Pixel-perfect text. Commercial-ready composition. Daily new prompts.",
         intro=(
-            "A curated, open-source collection of 60 production-grade prompts for "
+            "A curated, open-source collection of production-grade prompts for "
             "**OpenAI's GPT Image 2**, organized by use case. "
             "**All prompts are gathered from publicly shared posts on X (Twitter) "
             "and credited to their original authors — each author's name links to "
@@ -126,7 +126,7 @@ STRINGS = {
         title="Awesome GPT Image 2 Prompts · 精选集",
         tagline="像素级文字掌控,商用级画面质感。每日精选 prompt。",
         intro=(
-            "为 **OpenAI GPT Image 2** 整理的 60 条生产级 prompt 开源合集,按使用场景分类。"
+            "为 **OpenAI GPT Image 2** 整理的生产级 prompt 开源合集,按使用场景分类。"
             "**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**"
             "若您是原作者,希望修改或下架某条,请[提交 Issue]"
             f"({REPO_URL}/issues/new?template=add-prompt.yml)告知我们。"

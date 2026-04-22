@@ -11,9 +11,9 @@
 
 <p align="center"><b>中文</b> · <a href="README.md">English</a></p>
 
-为 **OpenAI GPT Image 2** 整理的 60 条生产级 prompt 开源合集,按使用场景分类。**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**若您是原作者,希望修改或下架某条,请[提交 Issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml)告知我们。
+为 **OpenAI GPT Image 2** 整理的生产级 prompt 开源合集,按使用场景分类。**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**若您是原作者,希望修改或下架某条,请[提交 Issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml)告知我们。
 
-> 共 60 条 prompt,覆盖 6 个分类. [→ 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2)
+> 共 58 条 prompt,覆盖 6 个分类. [→ 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2)
 
 ## 本期精选
 
@@ -33,10 +33,10 @@
 
 - [人像与摄影](#人像与摄影) · *9 条*
 - [海报与编辑设计](#海报与编辑设计) · *9 条*
-- [信息图与数据可视化](#信息图与数据可视化) · *22 条*
+- [信息图与数据可视化](#信息图与数据可视化) · *21 条*
 - [社媒与品牌](#社媒与品牌) · *9 条*
 - [漫画与插画](#漫画与插画) · *5 条*
-- [UI 与模型稿](#ui-与模型稿) · *6 条*
+- [UI 与模型稿](#ui-与模型稿) · *5 条*
 
 ## 人像与摄影
 
@@ -521,26 +521,6 @@ Generate a high-quality vertical "science popularization encyclopedia image" bas
 </details>
 
 [📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#23-generate-a-high-quality)
-
----
-
-### 27. Search the web for the latest and most accurate information fro…
-
-*作者 **Alex Patrascu***
-
-<a id="27-search-the-web-for"></a>
-<p align="center"><a href="images/27.jpg"><img src="images/27.jpg" width="640" alt="Search the web for the latest and most accurate information fro…"/></a></p>
-
-<details>
-<summary><b>Prompt</b> — 展开完整 prompt</summary>
-
-```text
-Search the web for the latest and most accurate information from today, April 17, 2026. Then generate the ultimate 3×3 real-time moodboard with accurate information: 9 squares capturing today’s biggest moments across news, sports, finance, and world events, unified modern news aesthetic, perfect consistency, and detail. Search the web to make sure today's events are represented. Figure out the perfect prompt for it. Double check the news to make sure they are accurate and from today.
-```
-
-</details>
-
-[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#27-search-the-web-for)
 
 ---
 
@@ -1227,26 +1207,6 @@ Generate a realistic desktop screenshot of Adobe Premiere
 </details>
 
 [📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop)
-
----
-
-### 57. Miniature Ottoman war, but like the Google Maps live traffic la…
-
-*作者 **Unknown***
-
-<a id="57-miniature-ottoman-war-but"></a>
-<p align="center"><a href="images/57.jpg"><img src="images/57.jpg" width="640" alt="Miniature Ottoman war, but like the Google Maps live traffic la…"/></a></p>
-
-<details>
-<summary><b>Prompt</b> — 展开完整 prompt</summary>
-
-```text
-Miniature Ottoman war, but like the Google Maps live traffic layer
-```
-
-</details>
-
-[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
 
 ---
 

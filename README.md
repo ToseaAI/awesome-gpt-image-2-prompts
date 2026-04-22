@@ -11,9 +11,9 @@
 
 <p align="center"><b>English</b> · <a href="README.zh-CN.md">中文</a></p>
 
-A curated, open-source collection of 60 production-grade prompts for **OpenAI's GPT Image 2**, organized by use case. **All prompts are gathered from publicly shared posts on X (Twitter) and credited to their original authors — each author's name links to the source post.** If you are an author and want an entry corrected or removed, please [open an issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml).
+A curated, open-source collection of production-grade prompts for **OpenAI's GPT Image 2**, organized by use case. **All prompts are gathered from publicly shared posts on X (Twitter) and credited to their original authors — each author's name links to the source post.** If you are an author and want an entry corrected or removed, please [open an issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml).
 
-> 60 prompts across 6 categories. [→ View on Tosea](https://tosea.ai/prompts/gpt-image-2)
+> 58 prompts across 6 categories. [→ View on Tosea](https://tosea.ai/prompts/gpt-image-2)
 
 ## Featured
 
@@ -33,10 +33,10 @@ A curated, open-source collection of 60 production-grade prompts for **OpenAI's 
 
 - [Portrait & Photography](#portrait--photography) · *9 prompts*
 - [Poster & Editorial](#poster--editorial) · *9 prompts*
-- [Infographic & Information Design](#infographic--information-design) · *22 prompts*
+- [Infographic & Information Design](#infographic--information-design) · *21 prompts*
 - [Social Media & Branding](#social-media--branding) · *9 prompts*
 - [Comic & Illustration](#comic--illustration) · *5 prompts*
-- [UI & Mockup](#ui--mockup) · *6 prompts*
+- [UI & Mockup](#ui--mockup) · *5 prompts*
 
 ## Portrait & Photography
 
@@ -521,26 +521,6 @@ Generate a high-quality vertical "science popularization encyclopedia image" bas
 </details>
 
 [📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#23-generate-a-high-quality)
-
----
-
-### 27. Search the web for the latest and most accurate information fro…
-
-*by **Alex Patrascu***
-
-<a id="27-search-the-web-for"></a>
-<p align="center"><a href="images/27.jpg"><img src="images/27.jpg" width="640" alt="Search the web for the latest and most accurate information fro…"/></a></p>
-
-<details>
-<summary><b>Prompt</b> — Show full prompt</summary>
-
-```text
-Search the web for the latest and most accurate information from today, April 17, 2026. Then generate the ultimate 3×3 real-time moodboard with accurate information: 9 squares capturing today’s biggest moments across news, sports, finance, and world events, unified modern news aesthetic, perfect consistency, and detail. Search the web to make sure today's events are represented. Figure out the perfect prompt for it. Double check the news to make sure they are accurate and from today.
-```
-
-</details>
-
-[📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#27-search-the-web-for)
 
 ---
 
@@ -1227,26 +1207,6 @@ Generate a realistic desktop screenshot of Adobe Premiere
 </details>
 
 [📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop)
-
----
-
-### 57. Miniature Ottoman war, but like the Google Maps live traffic la…
-
-*by **Unknown***
-
-<a id="57-miniature-ottoman-war-but"></a>
-<p align="center"><a href="images/57.jpg"><img src="images/57.jpg" width="640" alt="Miniature Ottoman war, but like the Google Maps live traffic la…"/></a></p>
-
-<details>
-<summary><b>Prompt</b> — Show full prompt</summary>
-
-```text
-Miniature Ottoman war, but like the Google Maps live traffic layer
-```
-
-</details>
-
-[📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
 
 ---
 
