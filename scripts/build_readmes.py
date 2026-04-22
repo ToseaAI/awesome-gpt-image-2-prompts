@@ -292,9 +292,10 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     parts.append("")
 
     # Single CTA — the source post is already linked via the author name
-    # above, so no redundant link here. Emoji chosen to evoke "read/browse"
-    # not "execute/try".
-    parts.append(f'[📖 {s.try_on_tosea}]({e["toseaUrl"]})')
+    # above, so no redundant link here. Plain "→ " prefix (not an emoji
+    # image) matches the intro summary style and avoids GitHub's zero-
+    # padding emoji renderer squashing the label into the arrow.
+    parts.append(f'**[→ {s.try_on_tosea}]({e["toseaUrl"]})**')
     parts.append("")
     parts.append("---")
     parts.append("")
