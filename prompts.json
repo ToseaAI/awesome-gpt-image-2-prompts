@@ -614,6 +614,30 @@
       "toseaUrl": "https://tosea.ai/prompts/gpt-image-2#26-meta-quality-ultra-photorealistic"
     },
     {
+      "index": 27,
+      "id": "27-search-the-web-for",
+      "title": {
+        "en": "Search the web for the latest and most accurate information fro…",
+        "zh": "Search the web for the latest and most accurate information fro…"
+      },
+      "category": "infographic",
+      "author": {
+        "displayName": "Alex Patrascu",
+        "xHandle": "maxescu"
+      },
+      "sourceUrl": "https://x.com/maxescu/status/2045096239713394862",
+      "image": "images/27.jpg",
+      "description": {
+        "en": "Search the web for the latest and most accurate information from today, April 17, 2026.",
+        "zh": "Search the web for the latest and most accurate information from today, April 17, 2026."
+      },
+      "prompt": "Search the web for the latest and most accurate information from today, April 17, 2026. Then generate the ultimate 3×3 real-time moodboard with accurate information: 9 squares capturing today’s biggest moments across news, sports, finance, and world events, unified modern news aesthetic, perfect consistency, and detail. Search the web to make sure today's events are represented. Figure out the perfect prompt for it. Double check the news to make sure they are accurate and from today.",
+      "promptType": "prose",
+      "featured": false,
+      "publishedAt": "2026-04-22",
+      "toseaUrl": "https://tosea.ai/prompts/gpt-image-2#27-search-the-web-for"
+    },
+    {
       "index": 28,
       "id": "28-generate-a-realistic-desktop",
       "title": {

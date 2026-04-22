@@ -245,14 +245,14 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     x_handle = e["author"].get("xHandle")
     source_url = e.get("sourceUrl")
 
-    # Attribution priority:
-    # 1. Known X handle → link to x.com profile (durable)
-    # 2. Known sourceUrl but no handle → link name to source post (still credits)
-    # 3. Neither → plain text (no fabricated link)
-    if x_handle:
-        author_md = f"[**@{x_handle}**](https://x.com/{x_handle})"
-    elif source_url:
-        author_md = f"[**{author_name}**]({source_url})"
+    # Attribution: displayName is always the visible text (it is the name
+    # the author chose to present). Link target picks the most specific URL
+    # we have: the source post beats the profile, profile beats nothing.
+    link_target = source_url or (
+        f"https://x.com/{x_handle}" if x_handle else None
+    )
+    if link_target:
+        author_md = f"[**{author_name}**]({link_target})"
     else:
         author_md = f"**{author_name}**"
 
