@@ -89,9 +89,12 @@ STRINGS = {
         tagline="Pixel-perfect text. Commercial-ready composition. Daily new prompts.",
         intro=(
             "A curated, open-source collection of 60 production-grade prompts for "
-            "**OpenAI's GPT Image 2**, organized by use case. Every prompt links back "
-            f"to the original author and to a live preview on [Tosea.ai]({TOSEA_PROMPTS_URL}) "
-            "so you can remix it in seconds."
+            "**OpenAI's GPT Image 2**, organized by use case. "
+            "**All prompts are gathered from publicly shared posts on X (Twitter) "
+            "and credited to their original authors — each author's name links to "
+            "the source post.** If you are an author and want an entry corrected "
+            "or removed, please [open an issue]"
+            f"({REPO_URL}/issues/new?template=add-prompt.yml)."
         ),
         toc_heading="Table of Contents",
         featured_heading="Featured",
@@ -109,7 +112,7 @@ STRINGS = {
         ),
         prompt_label="Prompt",
         show_prompt="Show full prompt",
-        try_on_tosea="Try on Tosea.ai",
+        try_on_tosea="View on Tosea",
         source_tweet="Source",
         by_author="by",
         lang_switch_label="English",
@@ -124,8 +127,9 @@ STRINGS = {
         tagline="像素级文字掌控,商用级画面质感。每日精选 prompt。",
         intro=(
             "为 **OpenAI GPT Image 2** 整理的 60 条生产级 prompt 开源合集,按使用场景分类。"
-            f"每条 prompt 均保留原作者署名,并提供 [Tosea.ai]({TOSEA_PROMPTS_URL}) 在线试跑入口,"
-            "复制即用,秒级复现。"
+            "**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**"
+            "若您是原作者,希望修改或下架某条,请[提交 Issue]"
+            f"({REPO_URL}/issues/new?template=add-prompt.yml)告知我们。"
         ),
         toc_heading="目录",
         featured_heading="本期精选",
@@ -142,7 +146,7 @@ STRINGS = {
         ),
         prompt_label="Prompt",
         show_prompt="展开完整 prompt",
-        try_on_tosea="在 Tosea.ai 试跑",
+        try_on_tosea="在 Tosea 浏览",
         source_tweet="原推",
         by_author="作者",
         lang_switch_label="中文",
@@ -174,7 +178,7 @@ def render_badges() -> str:
     lines = [
         '<p align="center">',
         '  <a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"></a>',
-        f'  <a href="{TOSEA_PROMPTS_URL}"><img alt="Try on Tosea.ai" src="https://img.shields.io/badge/Try%20on-Tosea.ai-000000?style=flat&logo=openai&logoColor=white"></a>',
+        f'  <a href="{TOSEA_PROMPTS_URL}"><img alt="Gallery on Tosea.ai" src="https://img.shields.io/badge/Gallery-Tosea.ai-000000?style=flat"></a>',
         f'  <a href="{REPO_URL}/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ToseaAI/awesome-gpt-image-2-prompts?style=flat&color=yellow"></a>',
         f'  <a href="{REPO_URL}/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ToseaAI/awesome-gpt-image-2-prompts?style=flat&color=blue"></a>',
         '</p>',
@@ -239,9 +243,18 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     title = e["title"][lang] if isinstance(e["title"], dict) else e["title"]
     author_name = e["author"]["displayName"]
     x_handle = e["author"].get("xHandle")
-    author_md = f"**{author_name}**"
+    source_url = e.get("sourceUrl")
+
+    # Attribution priority:
+    # 1. Known X handle → link to x.com profile (durable)
+    # 2. Known sourceUrl but no handle → link name to source post (still credits)
+    # 3. Neither → plain text (no fabricated link)
     if x_handle:
         author_md = f"[**@{x_handle}**](https://x.com/{x_handle})"
+    elif source_url:
+        author_md = f"[**{author_name}**]({source_url})"
+    else:
+        author_md = f"**{author_name}**"
 
     parts = []
     parts.append(f'### {n:02d}. {title}')
@@ -263,10 +276,10 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     parts.append('</details>')
     parts.append("")
 
-    links = [f'[🚀 {s.try_on_tosea}]({e["toseaUrl"]})']
-    if e.get("sourceUrl"):
-        links.append(f'[🐦 {s.source_tweet}]({e["sourceUrl"]})')
-    parts.append(" · ".join(links))
+    # Single CTA — the source post is already linked via the author name
+    # above, so no redundant link here. Emoji chosen to evoke "read/browse"
+    # not "execute/try".
+    parts.append(f'[📖 {s.try_on_tosea}]({e["toseaUrl"]})')
     parts.append("")
     parts.append("---")
     parts.append("")

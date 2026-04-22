@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="License: CC BY 4.0" src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg"></a>
-  <a href="https://tosea.ai/prompts/gpt-image-2"><img alt="Try on Tosea.ai" src="https://img.shields.io/badge/Try%20on-Tosea.ai-000000?style=flat&logo=openai&logoColor=white"></a>
+  <a href="https://tosea.ai/prompts/gpt-image-2"><img alt="Gallery on Tosea.ai" src="https://img.shields.io/badge/Gallery-Tosea.ai-000000?style=flat"></a>
   <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ToseaAI/awesome-gpt-image-2-prompts?style=flat&color=yellow"></a>
   <a href="https://github.com/ToseaAI/awesome-gpt-image-2-prompts/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ToseaAI/awesome-gpt-image-2-prompts?style=flat&color=blue"></a>
 </p>
 
 <p align="center"><b>中文</b> · <a href="README.md">English</a></p>
 
-为 **OpenAI GPT Image 2** 整理的 60 条生产级 prompt 开源合集,按使用场景分类。每条 prompt 均保留原作者署名,并提供 [Tosea.ai](https://tosea.ai/prompts/gpt-image-2) 在线试跑入口,复制即用,秒级复现。
+为 **OpenAI GPT Image 2** 整理的 60 条生产级 prompt 开源合集,按使用场景分类。**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**若您是原作者,希望修改或下架某条,请[提交 Issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml)告知我们。
 
-> 共 60 条 prompt,覆盖 6 个分类. [→ 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2)
+> 共 60 条 prompt,覆盖 6 个分类. [→ 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2)
 
 ## 本期精选
 
@@ -42,7 +42,7 @@
 
 ### 01. A photorealistic capture of chaotic youth frozen in
 
-*作者 **Harshith***
+*作者 [**Harshith**](https://t.co/5YHU5cCxMn)*
 
 <a id="01-a-photorealistic-capture-of"></a>
 <p align="center"><a href="images/01.jpg"><img src="images/01.jpg" width="640" alt="A photorealistic capture of chaotic youth frozen in"/></a></p>
@@ -56,13 +56,13 @@ A photorealistic capture of chaotic youth frozen in time, featuring a beautiful 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#01-a-photorealistic-capture-of) · [🐦 原推](https://t.co/5YHU5cCxMn)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#01-a-photorealistic-capture-of)
 
 ---
 
 ### 07. 人物
 
-*作者 **Heisenberg***
+*作者 [**Heisenberg**](https://t.co/XnASzxu1O1)*
 
 <a id="07-meta-image-quality-very"></a>
 <p align="center"><a href="images/07.jpg"><img src="images/07.jpg" width="640" alt="人物"/></a></p>
@@ -76,13 +76,13 @@ A photorealistic capture of chaotic youth frozen in time, featuring a beautiful 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#07-meta-image-quality-very) · [🐦 原推](https://t.co/XnASzxu1O1)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#07-meta-image-quality-very)
 
 ---
 
 ### 08. A traditional Chinese ink and color painting in Gongbi style on…
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/9LMAC9R2Rv)*
 
 <a id="08-a-traditional-chinese-ink"></a>
 <p align="center"><a href="images/08.jpg"><img src="images/08.jpg" width="640" alt="A traditional Chinese ink and color painting in Gongbi style on…"/></a></p>
@@ -96,13 +96,13 @@ A traditional Chinese ink and color painting in Gongbi style on aged rice paper 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#08-a-traditional-chinese-ink) · [🐦 原推](https://t.co/9LMAC9R2Rv)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#08-a-traditional-chinese-ink)
 
 ---
 
 ### 10. Professional studio fashion photography, ultra-clean high-end d…
 
-*作者 **BubbleBrain***
+*作者 [**BubbleBrain**](https://t.co/JfSKdoNAMo)*
 
 <a id="10-professional-studio-fashion-photography"></a>
 <p align="center"><a href="images/10.jpg"><img src="images/10.jpg" width="640" alt="Professional studio fashion photography, ultra-clean high-end d…"/></a></p>
@@ -116,13 +116,13 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#10-professional-studio-fashion-photography) · [🐦 原推](https://t.co/JfSKdoNAMo)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#10-professional-studio-fashion-photography)
 
 ---
 
 ### 14. 黑神话 钟馗
 
-*作者 **苏打白.Dev***
+*作者 [**苏打白.Dev**](https://t.co/zUFRPc7DKu)*
 
 <a id="prompt-14"></a>
 <p align="center"><a href="images/14.jpg"><img src="images/14.jpg" width="640" alt="黑神话 钟馗"/></a></p>
@@ -136,13 +136,13 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#prompt-14) · [🐦 原推](https://t.co/zUFRPc7DKu)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#prompt-14)
 
 ---
 
 ### 26. long-sleeve fitted V-neck dress or top
 
-*作者 **Kate Deyneka***
+*作者 [**Kate Deyneka**](https://t.co/8ZzTjItjtM)*
 
 <a id="26-meta-quality-ultra-photorealistic"></a>
 <p align="center"><a href="images/26.jpg"><img src="images/26.jpg" width="640" alt="long-sleeve fitted V-neck dress or top"/></a></p>
@@ -156,13 +156,13 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#26-meta-quality-ultra-photorealistic) · [🐦 原推](https://t.co/8ZzTjItjtM)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#26-meta-quality-ultra-photorealistic)
 
 ---
 
 ### 29. real human female face
 
-*作者 **Muhammad Ayan***
+*作者 [**Muhammad Ayan**](https://t.co/1oaXpSoBic)*
 
 <a id="29-prompt-type-hyper-realistic"></a>
 <p align="center"><a href="images/29.jpg"><img src="images/29.jpg" width="640" alt="real human female face"/></a></p>
@@ -176,13 +176,13 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#29-prompt-type-hyper-realistic) · [🐦 原推](https://t.co/1oaXpSoBic)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#29-prompt-type-hyper-realistic)
 
 ---
 
 ### 38. Reframe this image to show the behind the scenes.
 
-*作者 **A.I.Warper***
+*作者 [**A.I.Warper**](https://t.co/STYPuT94Hn)*
 
 <a id="38-reframe-this-image-to"></a>
 <p align="center"><a href="images/38.jpg"><img src="images/38.jpg" width="640" alt="Reframe this image to show the behind the scenes."/></a></p>
@@ -196,13 +196,13 @@ reframe this image to show the behind the scenes. A photo taken from a third par
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#38-reframe-this-image-to) · [🐦 原推](https://t.co/STYPuT94Hn)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#38-reframe-this-image-to)
 
 ---
 
 ### 42. A photo of a computer screen displaying a Spotify playlist at n…
 
-*作者 **Pietro Schirano***
+*作者 [**Pietro Schirano**](https://t.co/Rbq4WTM0kc)*
 
 <a id="42-a-photo-of-a"></a>
 <p align="center"><a href="images/42.jpg"><img src="images/42.jpg" width="640" alt="A photo of a computer screen displaying a Spotify playlist at n…"/></a></p>
@@ -216,7 +216,7 @@ A photo of a computer screen displaying a Spotify playlist at night
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#42-a-photo-of-a) · [🐦 原推](https://t.co/Rbq4WTM0kc)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#42-a-photo-of-a)
 
 ---
 
@@ -224,7 +224,7 @@ A photo of a computer screen displaying a Spotify playlist at night
 
 ### 09. A striking Spring 2026 city poster for Boston
 
-*作者 **BubbleBrain***
+*作者 [**BubbleBrain**](https://t.co/ZCjJjikIeT)*
 
 <a id="09-a-striking-spring-city"></a>
 <p align="center"><a href="images/09.jpg"><img src="images/09.jpg" width="640" alt="A striking Spring 2026 city poster for Boston"/></a></p>
@@ -238,13 +238,13 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#09-a-striking-spring-city) · [🐦 原推](https://t.co/ZCjJjikIeT)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#09-a-striking-spring-city)
 
 ---
 
 ### 16. A premium, hand-crafted illustrated recipe poster titled “CLASS…
 
-*作者 **Ai Girllie***
+*作者 [**Ai Girllie**](https://t.co/S9ch8JM6Vk)*
 
 <a id="16-a-premium-hand-crafted"></a>
 <p align="center"><a href="images/16.jpg"><img src="images/16.jpg" width="640" alt="A premium, hand-crafted illustrated recipe poster titled “CLASS…"/></a></p>
@@ -258,13 +258,13 @@ A premium, hand-crafted illustrated recipe poster titled “CLASSIC AMERICAN APP
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#16-a-premium-hand-crafted) · [🐦 原推](https://t.co/S9ch8JM6Vk)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#16-a-premium-hand-crafted)
 
 ---
 
 ### 22. Create a poster for a fictional anime movie using GPT image2.
 
-*作者 **SEIIIRU😈動画生成AIを使う映像クリエイター***
+*作者 [**SEIIIRU😈動画生成AIを使う映像クリエイター**](https://t.co/YX0ScJWk55)*
 
 <a id="22-create-a-poster-for"></a>
 <p align="center"><a href="images/22.jpg"><img src="images/22.jpg" width="640" alt="Create a poster for a fictional anime movie using GPT image2."/></a></p>
@@ -278,13 +278,13 @@ Create a poster for a fictional anime movie using GPT image2.
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#22-create-a-poster-for) · [🐦 原推](https://t.co/YX0ScJWk55)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#22-create-a-poster-for)
 
 ---
 
 ### 34. Create a visually stunning educational infographic explaining M…
 
-*作者 **1LittleCoder💻***
+*作者 [**1LittleCoder💻**](https://t.co/Kn4hZoP7iR)*
 
 <a id="34-create-a-visually-stunning"></a>
 <p align="center"><a href="images/34.jpg"><img src="images/34.jpg" width="640" alt="Create a visually stunning educational infographic explaining M…"/></a></p>
@@ -298,13 +298,13 @@ Create a visually stunning educational infographic explaining Magnus Effect in a
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#34-create-a-visually-stunning) · [🐦 原推](https://t.co/Kn4hZoP7iR)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#34-create-a-visually-stunning)
 
 ---
 
 ### 37. Create a Science fiction movie poster
 
-*作者 **underwood***
+*作者 [**underwood**](https://t.co/RYeICaD6L0)*
 
 <a id="37-create-a-science-fiction"></a>
 <p align="center"><a href="images/37.jpg"><img src="images/37.jpg" width="640" alt="Create a Science fiction movie poster"/></a></p>
@@ -318,13 +318,13 @@ Create a Science fiction movie poster
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#37-create-a-science-fiction) · [🐦 原推](https://t.co/RYeICaD6L0)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#37-create-a-science-fiction)
 
 ---
 
 ### 43. ・Refer to 1 character image ・Poster for the fictional cartoon a…
 
-*作者 **🗯️RelaxBeatsLab™︎***
+*作者 [**🗯️RelaxBeatsLab™︎**](https://t.co/TkQ5dvBAZg)*
 
 <a id="43-refer-to-character-image"></a>
 <p align="center"><a href="images/43.jpg"><img src="images/43.jpg" width="640" alt="・Refer to 1 character image ・Poster for the fictional cartoon a…"/></a></p>
@@ -338,13 +338,13 @@ Create a Science fiction movie poster
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#43-refer-to-character-image) · [🐦 原推](https://t.co/TkQ5dvBAZg)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#43-refer-to-character-image)
 
 ---
 
 ### 51. 1960s French New Wave theatrical poster, bold photomontage
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/chr7nNcHNS)*
 
 <a id="51-s-french-new-wave"></a>
 <p align="center"><a href="images/51.jpg"><img src="images/51.jpg" width="640" alt="1960s French New Wave theatrical poster, bold photomontage"/></a></p>
@@ -358,13 +358,13 @@ Create a Science fiction movie poster
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#51-s-french-new-wave) · [🐦 原推](https://t.co/chr7nNcHNS)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#51-s-french-new-wave)
 
 ---
 
 ### 58. Post-apocalyptic ruin, but like a luxury real estate brochure
 
-*作者 **Kazım Taşkın***
+*作者 [**Kazım Taşkın**](https://t.co/Xtri6P1U7b)*
 
 <a id="58-post-apocalyptic-ruin-but"></a>
 <p align="center"><a href="images/58.jpg"><img src="images/58.jpg" width="640" alt="Post-apocalyptic ruin, but like a luxury real estate brochure"/></a></p>
@@ -378,13 +378,13 @@ Post-apocalyptic ruin, but like a luxury real estate brochure
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#58-post-apocalyptic-ruin-but) · [🐦 原推](https://t.co/Xtri6P1U7b)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#58-post-apocalyptic-ruin-but)
 
 ---
 
 ### 60. A refined 2026 New York City promotional poster with a bold yet…
 
-*作者 **Hermes Changelog***
+*作者 [**Hermes Changelog**](https://t.co/Ed5Dike2Tm)*
 
 <a id="60-a-refined-new-york"></a>
 <p align="center"><a href="images/60.jpg"><img src="images/60.jpg" width="640" alt="A refined 2026 New York City promotional poster with a bold yet…"/></a></p>
@@ -398,7 +398,7 @@ A refined 2026 New York City promotional poster with a bold yet elegant metropol
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#60-a-refined-new-york) · [🐦 原推](https://t.co/Ed5Dike2Tm)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#60-a-refined-new-york)
 
 ---
 
@@ -406,7 +406,7 @@ A refined 2026 New York City promotional poster with a bold yet elegant metropol
 
 ### 03. Please create an infographic based on the input
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/XpBQ4DQrUp)*
 
 <a id="03-please-create-an-infographic"></a>
 <p align="center"><a href="images/03.jpg"><img src="images/03.jpg" width="640" alt="Please create an infographic based on the input"/></a></p>
@@ -420,13 +420,13 @@ Please create an infographic based on the input content, highlighting key themes
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#03-please-create-an-infographic) · [🐦 原推](https://t.co/XpBQ4DQrUp)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#03-please-create-an-infographic)
 
 ---
 
 ### 11. Create step-by-step recipe infographic for creamy garlic mushro…
 
-*作者 **Ege***
+*作者 [**Ege**](https://t.co/eo7Qm21XD0)*
 
 <a id="11-create-step-by-step"></a>
 <p align="center"><a href="images/11.jpg"><img src="images/11.jpg" width="640" alt="Create step-by-step recipe infographic for creamy garlic mushro…"/></a></p>
@@ -440,13 +440,13 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#11-create-step-by-step) · [🐦 原推](https://t.co/eo7Qm21XD0)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#11-create-step-by-step)
 
 ---
 
 ### 13. Create a 10 × 10 grid of 100
 
-*作者 **proper***
+*作者 [**proper**](https://t.co/clpekLD0KH)*
 
 <a id="13-create-a-grid-of"></a>
 <p align="center"><a href="images/13.jpg"><img src="images/13.jpg" width="640" alt="Create a 10 × 10 grid of 100"/></a></p>
@@ -460,13 +460,13 @@ Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pi
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#13-create-a-grid-of) · [🐦 原推](https://t.co/clpekLD0KH)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#13-create-a-grid-of)
 
 ---
 
 ### 17. Please create a cartoon-style infographic based on the
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/TUu5bu52Lp)*
 
 <a id="17-please-create-a-cartoon"></a>
 <p align="center"><a href="images/17.jpg"><img src="images/17.jpg" width="640" alt="Please create a cartoon-style infographic based on the"/></a></p>
@@ -480,13 +480,13 @@ Please create a cartoon-style infographic based on the provided content, followi
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#17-please-create-a-cartoon) · [🐦 原推](https://t.co/TUu5bu52Lp)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#17-please-create-a-cartoon)
 
 ---
 
 ### 21. A professional screenshot of a TikTok creator in-app
 
-*作者 **Mark Kretschmann***
+*作者 [**Mark Kretschmann**](https://t.co/b596y29yUM)*
 
 <a id="21-a-professional-screenshot-of"></a>
 <p align="center"><a href="images/21.jpg"><img src="images/21.jpg" width="640" alt="A professional screenshot of a TikTok creator in-app"/></a></p>
@@ -500,13 +500,13 @@ A professional screenshot of a TikTok creator in-app message interface from a mo
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#21-a-professional-screenshot-of) · [🐦 原推](https://t.co/b596y29yUM)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#21-a-professional-screenshot-of)
 
 ---
 
 ### 23. Generate a high-quality vertical "science popularization encycl…
 
-*作者 **Fanis***
+*作者 [**Fanis**](https://t.co/3UGGmP2NwA)*
 
 <a id="23-generate-a-high-quality"></a>
 <p align="center"><a href="images/23.jpg"><img src="images/23.jpg" width="640" alt="Generate a high-quality vertical "science popularization encycl…"/></a></p>
@@ -520,7 +520,7 @@ Generate a high-quality vertical "science popularization encyclopedia image" bas
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#23-generate-a-high-quality) · [🐦 原推](https://t.co/3UGGmP2NwA)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#23-generate-a-high-quality)
 
 ---
 
@@ -540,13 +540,13 @@ Search the web for the latest and most accurate information from today, April 17
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#27-search-the-web-for)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#27-search-the-web-for)
 
 ---
 
 ### 30. An oil painting in the exact style of
 
-*作者 **fabian***
+*作者 [**fabian**](https://t.co/Dmsn7GYeef)*
 
 <a id="30-an-oil-painting-in"></a>
 <p align="center"><a href="images/30.jpg"><img src="images/30.jpg" width="640" alt="An oil painting in the exact style of"/></a></p>
@@ -560,13 +560,13 @@ An oil painting in the exact style of Pablo Picasso — combining Cubist fragmen
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#30-an-oil-painting-in) · [🐦 原推](https://t.co/Dmsn7GYeef)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#30-an-oil-painting-in)
 
 ---
 
 ### 31. Prepare a travel guide infographic for Istanbul that
 
-*作者 **ai.gezgini***
+*作者 [**ai.gezgini**](https://t.co/K2Wm0v9Bqv)*
 
 <a id="31-prepare-a-travel-guide"></a>
 <p align="center"><a href="images/31.jpg"><img src="images/31.jpg" width="640" alt="Prepare a travel guide infographic for Istanbul that"/></a></p>
@@ -580,13 +580,13 @@ Prepare a travel guide infographic for Istanbul that includes short and concise 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#31-prepare-a-travel-guide) · [🐦 原推](https://t.co/K2Wm0v9Bqv)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#31-prepare-a-travel-guide)
 
 ---
 
 ### 32. Create a detailed infographic about Hagia Sophia, add notations…
 
-*作者 **ai.gezgini***
+*作者 [**ai.gezgini**](https://t.co/HvgZRlBXOd)*
 
 <a id="32-create-a-detailed-infographic"></a>
 <p align="center"><a href="images/32.jpg"><img src="images/32.jpg" width="640" alt="Create a detailed infographic about Hagia Sophia, add notations…"/></a></p>
@@ -600,13 +600,13 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#32-create-a-detailed-infographic) · [🐦 原推](https://t.co/HvgZRlBXOd)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#32-create-a-detailed-infographic)
 
 ---
 
 ### 35. - Generating accurate text in images, across multiple
 
-*作者 **Katia Gil Guzman***
+*作者 [**Katia Gil Guzman**](https://t.co/eXR9hRgTr7)*
 
 <a id="35-generating-accurate-text-in"></a>
 <p align="center"><a href="images/35.jpg"><img src="images/35.jpg" width="640" alt="- Generating accurate text in images, across multiple"/></a></p>
@@ -620,13 +620,13 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#35-generating-accurate-text-in) · [🐦 原推](https://t.co/eXR9hRgTr7)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#35-generating-accurate-text-in)
 
 ---
 
 ### 36. authentic IKEA instruction manual page
 
-*作者 **Shruti***
+*作者 [**Shruti**](https://t.co/j0JSd7MqGY)*
 
 <a id="36-prompt-scene-a-perfectly"></a>
 <p align="center"><a href="images/36.jpg"><img src="images/36.jpg" width="640" alt="authentic IKEA instruction manual page"/></a></p>
@@ -640,13 +640,13 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#36-prompt-scene-a-perfectly) · [🐦 原推](https://t.co/j0JSd7MqGY)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#36-prompt-scene-a-perfectly)
 
 ---
 
 ### 39. create an infographic about the reign of Philip II, at the heig…
 
-*作者 **OscarAI***
+*作者 [**OscarAI**](https://t.co/9ILtBvNKX7)*
 
 <a id="39-create-an-infographic-about"></a>
 <p align="center"><a href="images/39.jpg"><img src="images/39.jpg" width="640" alt="create an infographic about the reign of Philip II, at the heig…"/></a></p>
@@ -660,13 +660,13 @@ create an infographic about the reign of Philip II, at the height of the Spanish
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#39-create-an-infographic-about) · [🐦 原推](https://t.co/9ILtBvNKX7)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#39-create-an-infographic-about)
 
 ---
 
 ### 40. a satellite map of London, showing a close up of the area aroun…
 
-*作者 **fofr***
+*作者 [**fofr**](https://t.co/g22VELwevN)*
 
 <a id="40-a-satellite-map-of"></a>
 <p align="center"><a href="images/40.jpg"><img src="images/40.jpg" width="640" alt="a satellite map of London, showing a close up of the area aroun…"/></a></p>
@@ -680,13 +680,13 @@ a satellite map of London, showing a close up of the area around Big Ben
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#40-a-satellite-map-of) · [🐦 原推](https://t.co/g22VELwevN)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#40-a-satellite-map-of)
 
 ---
 
 ### 41. Create an image with 10x10 grid of objects that have the names…
 
-*作者 **Umesh***
+*作者 [**Umesh**](https://t.co/AUKgSNjeOW)*
 
 <a id="41-create-an-image-with"></a>
 <p align="center"><a href="images/41.jpg"><img src="images/41.jpg" width="640" alt="Create an image with 10x10 grid of objects that have the names…"/></a></p>
@@ -700,13 +700,13 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#41-create-an-image-with) · [🐦 原推](https://t.co/AUKgSNjeOW)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#41-create-an-image-with)
 
 ---
 
 ### 48. 设计一张2026年4月16日的老黄历
 
-*作者 **WY***
+*作者 [**WY**](https://t.co/cGgQ3Quw6J)*
 
 <a id="prompt-48"></a>
 <p align="center"><a href="images/48.jpg"><img src="images/48.jpg" width="640" alt="设计一张2026年4月16日的老黄历"/></a></p>
@@ -720,13 +720,13 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#prompt-48) · [🐦 原推](https://t.co/cGgQ3Quw6J)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#prompt-48)
 
 ---
 
 ### 49. Based on everything you know about me, make
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/6x0DHb2MCQ)*
 
 <a id="49-based-on-everything-you"></a>
 <p align="center"><a href="images/49.jpg"><img src="images/49.jpg" width="640" alt="Based on everything you know about me, make"/></a></p>
@@ -740,13 +740,13 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#49-based-on-everything-you) · [🐦 原推](https://t.co/6x0DHb2MCQ)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#49-based-on-everything-you)
 
 ---
 
 ### 50. 请根据【主题】生成一张高质量竖版「科普百科图」。
 
-*作者 **Larus Canus***
+*作者 [**Larus Canus**](https://t.co/QHov2LPflT)*
 
 <a id="50-top"></a>
 <p align="center"><a href="images/50.jpg"><img src="images/50.jpg" width="640" alt="请根据【主题】生成一张高质量竖版「科普百科图」。"/></a></p>
@@ -760,13 +760,13 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#50-top) · [🐦 原推](https://t.co/QHov2LPflT)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#50-top)
 
 ---
 
 ### 53. - Best-in-class text recognition; nearly perfect, only minor
 
-*作者 **Eli5DeFi***
+*作者 [**Eli5DeFi**](https://t.co/49Eo2nj69e)*
 
 <a id="53-best-in-class-text"></a>
 <p align="center"><a href="images/53.jpg"><img src="images/53.jpg" width="640" alt="- Best-in-class text recognition; nearly perfect, only minor"/></a></p>
@@ -780,13 +780,13 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#53-best-in-class-text) · [🐦 原推](https://t.co/49Eo2nj69e)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#53-best-in-class-text)
 
 ---
 
 ### 54. Make a detailed step by step timeline of
 
-*作者 **Glenn Williams***
+*作者 [**Glenn Williams**](https://t.co/yUttjisfy1)*
 
 <a id="54-make-a-detailed-step"></a>
 <p align="center"><a href="images/54.jpg"><img src="images/54.jpg" width="640" alt="Make a detailed step by step timeline of"/></a></p>
@@ -800,13 +800,13 @@ Make a detailed step by step timeline of a bed time routine from 9PM to 10PM, in
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#54-make-a-detailed-step) · [🐦 原推](https://t.co/yUttjisfy1)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#54-make-a-detailed-step)
 
 ---
 
 ### 55. A photorealistic, taken by phone photo of a
 
-*作者 **Chetaslua***
+*作者 [**Chetaslua**](https://t.co/PlQnnZfORL)*
 
 <a id="55-a-photorealistic-taken-by"></a>
 <p align="center"><a href="images/55.jpg"><img src="images/55.jpg" width="640" alt="A photorealistic, taken by phone photo of a"/></a></p>
@@ -820,13 +820,13 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#55-a-photorealistic-taken-by) · [🐦 原推](https://t.co/PlQnnZfORL)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#55-a-photorealistic-taken-by)
 
 ---
 
 ### 56. A detailed cutaway drawing of a Boeing 747
 
-*作者 **bing howenstein***
+*作者 [**bing howenstein**](https://t.co/uyMZ3DPIoP)*
 
 <a id="56-a-detailed-cutaway-drawing"></a>
 <p align="center"><a href="images/56.jpg"><img src="images/56.jpg" width="640" alt="A detailed cutaway drawing of a Boeing 747"/></a></p>
@@ -840,7 +840,7 @@ A detailed cutaway drawing of a Boeing 747
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#56-a-detailed-cutaway-drawing) · [🐦 原推](https://t.co/uyMZ3DPIoP)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#56-a-detailed-cutaway-drawing)
 
 ---
 
@@ -848,7 +848,7 @@ A detailed cutaway drawing of a Boeing 747
 
 ### 02. Create a polished email sequence template for fenty beauty
 
-*作者 **Salma***
+*作者 [**Salma**](https://t.co/ExdwLNyvbT)*
 
 <a id="02-create-a-polished-email"></a>
 <p align="center"><a href="images/02.jpg"><img src="images/02.jpg" width="640" alt="Create a polished email sequence template for fenty beauty"/></a></p>
@@ -862,13 +862,13 @@ A detailed cutaway drawing of a Boeing 747
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#02-create-a-polished-email) · [🐦 原推](https://t.co/ExdwLNyvbT)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#02-create-a-polished-email)
 
 ---
 
 ### 15. Create a polished multi-page (multiple images) brand kitfor a c…
 
-*作者 **RIO***
+*作者 [**RIO**](https://t.co/DvVbnrVeD9)*
 
 <a id="15-create-a-polished-multi"></a>
 <p align="center"><a href="images/15.jpg"><img src="images/15.jpg" width="640" alt="Create a polished multi-page (multiple images) brand kitfor a c…"/></a></p>
@@ -882,13 +882,13 @@ Create a polished multi-page (multiple images) brand kitfor a company called YOY
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#15-create-a-polished-multi) · [🐦 原推](https://t.co/DvVbnrVeD9)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#15-create-a-polished-multi)
 
 ---
 
 ### 19. Editorial fashion lookbook, 4:5 aspect ratio, for a fictional b…
 
-*作者 **Justin Rands***
+*作者 [**Justin Rands**](https://t.co/s9xIhjENm8)*
 
 <a id="19-editorial-fashion-lookbook-aspect"></a>
 <p align="center"><a href="images/19.jpg"><img src="images/19.jpg" width="640" alt="Editorial fashion lookbook, 4:5 aspect ratio, for a fictional b…"/></a></p>
@@ -902,13 +902,13 @@ Editorial fashion lookbook, 4:5 aspect ratio, for a fictional brandcalled VINCO.
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#19-editorial-fashion-lookbook-aspect) · [🐦 原推](https://t.co/s9xIhjENm8)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#19-editorial-fashion-lookbook-aspect)
 
 ---
 
 ### 24. Create a detailed summer banner ad for an Italian soda.
 
-*作者 **Fanis***
+*作者 [**Fanis**](https://t.co/RphjDsEqge)*
 
 <a id="24-create-a-detailed-summer"></a>
 <p align="center"><a href="images/24.jpg"><img src="images/24.jpg" width="640" alt="Create a detailed summer banner ad for an Italian soda."/></a></p>
@@ -922,13 +922,13 @@ Create a detailed summer banner ad for an Italian soda. Research for the most tr
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#24-create-a-detailed-summer) · [🐦 原推](https://t.co/RphjDsEqge)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#24-create-a-detailed-summer)
 
 ---
 
 ### 25. Photorealistic bold beauty campaign using uploaded model as exa…
 
-*作者 **Fanis***
+*作者 [**Fanis**](https://t.co/MHnI1PTouA)*
 
 <a id="25-photorealistic-bold-beauty-campaign"></a>
 <p align="center"><a href="images/25.jpg"><img src="images/25.jpg" width="640" alt="Photorealistic bold beauty campaign using uploaded model as exa…"/></a></p>
@@ -942,13 +942,13 @@ Photorealistic bold beauty campaign using uploaded model as exact identity refer
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#25-photorealistic-bold-beauty-campaign) · [🐦 原推](https://t.co/MHnI1PTouA)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#25-photorealistic-bold-beauty-campaign)
 
 ---
 
 ### 45. 一张[瑞士/日式/北欧/法式]简约设计的"都市牛马一周穿搭指南"信息图，超高清8K分辨率,顶级商业时尚摄影风格。
 
-*作者 **沐阳***
+*作者 [**沐阳**](https://t.co/e7RWd3P6AC)*
 
 <a id="45-k-monday-tuesday-wednesday"></a>
 <p align="center"><a href="images/45.jpg"><img src="images/45.jpg" width="640" alt="一张[瑞士/日式/北欧/法式]简约设计的"都市牛马一周穿搭指南"信息图，超高清8K分辨率,顶级商业时尚摄影风格。"/></a></p>
@@ -962,13 +962,13 @@ Photorealistic bold beauty campaign using uploaded model as exact identity refer
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#45-k-monday-tuesday-wednesday) · [🐦 原推](https://t.co/e7RWd3P6AC)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#45-k-monday-tuesday-wednesday)
 
 ---
 
 ### 46. Redesign this product advertisement from the perspective of a p…
 
-*作者 **GENEL | AIを用いた動画制作***
+*作者 [**GENEL | AIを用いた動画制作**](https://t.co/mKM9bmC2LC)*
 
 <a id="46-redesign-this-product-advertisement"></a>
 <p align="center"><a href="images/46.jpg"><img src="images/46.jpg" width="640" alt="Redesign this product advertisement from the perspective of a p…"/></a></p>
@@ -982,13 +982,13 @@ Redesign this product advertisement from the perspective of a professional desig
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#46-redesign-this-product-advertisement) · [🐦 原推](https://t.co/mKM9bmC2LC)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#46-redesign-this-product-advertisement)
 
 ---
 
 ### 47. Create an ad for iced coffee.
 
-*作者 **KAWAI***
+*作者 [**KAWAI**](https://t.co/XQg0qPJfp8)*
 
 <a id="47-create-an-ad-for"></a>
 <p align="center"><a href="images/47.jpg"><img src="images/47.jpg" width="640" alt="Create an ad for iced coffee."/></a></p>
@@ -1002,13 +1002,13 @@ Create an ad for iced coffee. A stylish, modern Japanese design. Dynamically lai
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#47-create-an-ad-for) · [🐦 原推](https://t.co/XQg0qPJfp8)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#47-create-an-ad-for)
 
 ---
 
 ### 59. Create a hyper-realistic Japanese-style futuristic product adve…
 
-*作者 **Marcio Lima 利真 マルシオ 💎***
+*作者 [**Marcio Lima 利真 マルシオ 💎**](https://t.co/MIGv7iv2OZ)*
 
 <a id="59-create-a-hyper-realistic"></a>
 <p align="center"><a href="images/59.jpg"><img src="images/59.jpg" width="640" alt="Create a hyper-realistic Japanese-style futuristic product adve…"/></a></p>
@@ -1022,7 +1022,7 @@ Create a hyper-realistic Japanese-style futuristic product advertisement, insane
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#59-create-a-hyper-realistic) · [🐦 原推](https://t.co/MIGv7iv2OZ)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#59-create-a-hyper-realistic)
 
 ---
 
@@ -1030,7 +1030,7 @@ Create a hyper-realistic Japanese-style futuristic product advertisement, insane
 
 ### 05. Please create a vibrant, child-like crayon-style vertical (9:16)
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/YNuFVnJopP)*
 
 <a id="05-please-create-a-vibrant"></a>
 <p align="center"><a href="images/05.jpg"><img src="images/05.jpg" width="640" alt="Please create a vibrant, child-like crayon-style vertical (9:16)"/></a></p>
@@ -1044,13 +1044,13 @@ Please create a vibrant, child-like crayon-style vertical (9:16) illustration ti
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#05-please-create-a-vibrant) · [🐦 原推](https://t.co/YNuFVnJopP)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#05-please-create-a-vibrant)
 
 ---
 
 ### 12. Highly detailed, hand-drawn crowded search-and-find illustratio…
 
-*作者 **Kris Kashtanova***
+*作者 [**Kris Kashtanova**](https://t.co/DkZT0KeTC5)*
 
 <a id="12-highly-detailed-hand-drawn"></a>
 <p align="center"><a href="images/12.jpg"><img src="images/12.jpg" width="640" alt="Highly detailed, hand-drawn crowded search-and-find illustratio…"/></a></p>
@@ -1064,13 +1064,13 @@ Highly detailed, hand-drawn crowded search-and-find illustration, vertical compo
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#12-highly-detailed-hand-drawn) · [🐦 原推](https://t.co/DkZT0KeTC5)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#12-highly-detailed-hand-drawn)
 
 ---
 
 ### 33. Show me a photo taken of pages 113-114 from the books：Eldritch…
 
-*作者 **Ethan Mollick***
+*作者 [**Ethan Mollick**](https://t.co/tdnnBvZAj2)*
 
 <a id="33-show-me-a-photo"></a>
 <p align="center"><a href="images/33.jpg"><img src="images/33.jpg" width="640" alt="Show me a photo taken of pages 113-114 from the books：Eldritch…"/></a></p>
@@ -1084,13 +1084,13 @@ Show me a photo taken of pages 113-114 from the books：Eldritch Horrors as Pets
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#33-show-me-a-photo) · [🐦 原推](https://t.co/tdnnBvZAj2)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#33-show-me-a-photo)
 
 ---
 
 ### 44. Copy the exact same writing style and continue the text in a hu…
 
-*作者 **Ozan Sihay***
+*作者 [**Ozan Sihay**](https://t.co/h8K8no0wfy)*
 
 <a id="44-copy-the-exact-same"></a>
 <p align="center"><a href="images/44.jpg"><img src="images/44.jpg" width="640" alt="Copy the exact same writing style and continue the text in a hu…"/></a></p>
@@ -1104,13 +1104,13 @@ Copy the exact same writing style and continue the text in a humorous way.
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#44-copy-the-exact-same) · [🐦 原推](https://t.co/h8K8no0wfy)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#44-copy-the-exact-same)
 
 ---
 
 ### 52. Generate a full color Chinese-text manga about this
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/chr7nNcHNS)*
 
 <a id="52-generate-a-full-color"></a>
 <p align="center"><a href="images/52.jpg"><img src="images/52.jpg" width="640" alt="Generate a full color Chinese-text manga about this"/></a></p>
@@ -1124,7 +1124,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#52-generate-a-full-color) · [🐦 原推](https://t.co/chr7nNcHNS)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#52-generate-a-full-color)
 
 ---
 
@@ -1132,7 +1132,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 ### 04. 3D chibi-style miniature concept store of {Brand Name}
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/ACdkBfpMwo)*
 
 <a id="04-d-chibi-style-miniature"></a>
 <p align="center"><a href="images/04.jpg"><img src="images/04.jpg" width="640" alt="3D chibi-style miniature concept store of {Brand Name}"/></a></p>
@@ -1146,13 +1146,13 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#04-d-chibi-style-miniature) · [🐦 原推](https://t.co/ACdkBfpMwo)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#04-d-chibi-style-miniature)
 
 ---
 
 ### 06. An ingame screenshot of rust
 
-*作者 **Fix***
+*作者 [**Fix**](https://t.co/AvxjuwJnVK)*
 
 <a id="06-an-ingame-screenshot-of"></a>
 <p align="center"><a href="images/06.jpg"><img src="images/06.jpg" width="640" alt="An ingame screenshot of rust"/></a></p>
@@ -1166,13 +1166,13 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#06-an-ingame-screenshot-of) · [🐦 原推](https://t.co/AvxjuwJnVK)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#06-an-ingame-screenshot-of)
 
 ---
 
 ### 18. Enter a company name or stock ticker to
 
-*作者 **宝玉***
+*作者 [**宝玉**](https://t.co/6Q0sWISag1)*
 
 <a id="18-enter-a-company-name"></a>
 <p align="center"><a href="images/18.jpg"><img src="images/18.jpg" width="640" alt="Enter a company name or stock ticker to"/></a></p>
@@ -1186,13 +1186,13 @@ Enter a company name or stock ticker to generate an exquisite, miniature isometr
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#18-enter-a-company-name) · [🐦 原推](https://t.co/6Q0sWISag1)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#18-enter-a-company-name)
 
 ---
 
 ### 20. Please generate me a screenshot of a palintir-style
 
-*作者 **Dan Woods***
+*作者 [**Dan Woods**](https://t.co/g3GS6DbrhY)*
 
 <a id="20-please-generate-me-a"></a>
 <p align="center"><a href="images/20.jpg"><img src="images/20.jpg" width="640" alt="Please generate me a screenshot of a palintir-style"/></a></p>
@@ -1206,13 +1206,13 @@ Please generate me a screenshot of a palintir-style dashboard tracking all the f
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#20-please-generate-me-a) · [🐦 原推](https://t.co/g3GS6DbrhY)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#20-please-generate-me-a)
 
 ---
 
 ### 28. Generate a realistic desktop screenshot of Adobe Premiere
 
-*作者 **Kate Deyneka***
+*作者 [**Kate Deyneka**](https://t.co/xOZd6BYsUz)*
 
 <a id="28-generate-a-realistic-desktop"></a>
 <p align="center"><a href="images/28.jpg"><img src="images/28.jpg" width="640" alt="Generate a realistic desktop screenshot of Adobe Premiere"/></a></p>
@@ -1226,7 +1226,7 @@ Generate a realistic desktop screenshot of Adobe Premiere
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop) · [🐦 原推](https://t.co/xOZd6BYsUz)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop)
 
 ---
 
@@ -1246,7 +1246,7 @@ Miniature Ottoman war, but like the Google Maps live traffic layer
 
 </details>
 
-[🚀 在 Tosea.ai 试跑](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
 
 ---
 
