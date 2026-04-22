@@ -1,0 +1,69 @@
+name: Add a prompt
+description: Suggest a new GPT Image 2 prompt to include in the collection
+title: "[prompt] <short title>"
+labels: ["prompt-suggestion"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to the original tweet / post where the prompt was shared.
+      placeholder: https://x.com/...
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author display name
+      description: The name shown on the source post.
+    validations:
+      required: true
+
+  - type: input
+    id: handle
+    attributes:
+      label: Author X handle (optional)
+      description: Without the leading "@". Leave blank if unsure — we do not fabricate handles.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - profile
+        - poster
+        - infographic
+        - social
+        - comic
+        - ui
+        - thumbnail
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full prompt (verbatim)
+      description: Paste the prompt exactly as shared — no paraphrasing.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: Output image
+      description: Drag-drop the image into this field (GitHub will upload it), or paste a URL.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I am the author, OR this prompt was publicly shared and I have linked the original source.
+          required: true
+        - label: I agree to license this contribution under CC BY 4.0.
+          required: true

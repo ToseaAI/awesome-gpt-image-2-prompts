@@ -1,0 +1,57 @@
+name: Sync READMEs
+
+# Runs build_readmes.py on any PR/push that touches prompts.json, the
+# generator script, or the images folder. On pushes to main it commits
+# any drift back; on PRs it fails the check if READMEs are out of sync.
+# No untrusted github.event.* fields are interpolated into run: blocks.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - prompts.json
+      - images/**
+      - scripts/build_readmes.py
+      - .github/workflows/sync-readme.yml
+  pull_request:
+    paths:
+      - prompts.json
+      - images/**
+      - scripts/build_readmes.py
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate READMEs
+        run: python scripts/build_readmes.py
+
+      - name: Fail if READMEs drifted (PRs only)
+        if: github.event_name == 'pull_request'
+        run: |
+          if ! git diff --quiet README.md README.zh-CN.md; then
+            echo "::error::READMEs are out of sync with prompts.json. Run 'python scripts/build_readmes.py' locally and commit the result."
+            git --no-pager diff README.md README.zh-CN.md
+            exit 1
+          fi
+
+      - name: Commit drift (main only)
+        if: github.event_name == 'push'
+        run: |
+          if ! git diff --quiet README.md README.zh-CN.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md README.zh-CN.md
+            git commit -m "chore: regenerate READMEs from prompts.json"
+            git push
+          fi
