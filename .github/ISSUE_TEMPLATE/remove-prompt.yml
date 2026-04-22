@@ -1,0 +1,48 @@
+name: Takedown / correction request
+description: Request removal or correction of a prompt (for authors or rights holders)
+title: "[takedown] <entry id or title>"
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you are the original author of a prompt in this collection and want
+        it corrected or removed, please fill this form. We will respond and
+        act within 72 hours.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry id or URL
+      description: The entry id (e.g. `27-search-the-web-for`) or the README link.
+      placeholder: 27-search-the-web-for
+    validations:
+      required: true
+
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: What would you like us to do?
+      options:
+        - Remove the entry entirely
+        - Correct the author name / handle
+        - Update the source URL
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Any additional context, correct information, or proof of authorship.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: identity
+    attributes:
+      label: Identity
+      options:
+        - label: I am the original author, OR I am authorized to act on their behalf.
+          required: true

@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak

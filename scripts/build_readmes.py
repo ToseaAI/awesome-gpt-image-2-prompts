@@ -11,6 +11,7 @@ No third-party dependencies — standard library only.
 
 from __future__ import annotations
 
+import html
 import json
 from dataclasses import dataclass
 from pathlib import Path
@@ -130,6 +131,8 @@ STRINGS = {
             "**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**"
             "若您是原作者,希望修改或下架某条,请[提交 Issue]"
             f"({REPO_URL}/issues/new?template=add-prompt.yml)告知我们。"
+            "\n\n> 注:当前条目标题保留 prompt 原文语言(多为英文),"
+            "中文翻译版本正在规划中。"
         ),
         toc_heading="目录",
         featured_heading="本期精选",
@@ -195,11 +198,16 @@ def render_lang_switch(s: Strings) -> str:
     )
 
 
-def render_hero_mosaic(featured: list[dict], max_images: int = 8) -> str:
+def render_hero_mosaic(
+    featured: list[dict],
+    lang: str,
+    max_images: int = 8,
+) -> str:
     """Render a centered 4-col mosaic of up to 8 featured images.
 
     Uses HTML table so GitHub's limited markdown renders it as a grid rather
-    than a vertical stack.
+    than a vertical stack. Alt text uses the localized title so Google Image
+    Search has descriptive above-the-fold context.
     """
     picks = featured[:max_images]
     if not picks:
@@ -208,9 +216,11 @@ def render_hero_mosaic(featured: list[dict], max_images: int = 8) -> str:
     rows = []
     rows.append('<table align="center"><tr>')
     for i, e in enumerate(picks, 1):
+        title = e["title"][lang] if isinstance(e["title"], dict) else e["title"]
+        alt = html.escape(title, quote=True)
         rows.append(
             f'<td align="center" width="25%">'
-            f'<a href="#{e["id"]}"><img src="{e["image"]}" width="220" alt="{e["id"]}"/></a>'
+            f'<a href="#{e["id"]}"><img src="{e["image"]}" width="220" alt="{alt}"/></a>'
             f'</td>'
         )
         if i % 4 == 0 and i != len(picks):
@@ -241,6 +251,11 @@ def render_toc(
 
 def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     title = e["title"][lang] if isinstance(e["title"], dict) else e["title"]
+    # HTML-escape for attribute and summary contexts. Titles occasionally
+    # contain straight quotes (`"`) and ampersands which would otherwise
+    # break the enclosing alt="..." attribute or the h3 on parsers that are
+    # stricter than GitHub's.
+    title_attr = html.escape(title, quote=True)
     author_name = e["author"]["displayName"]
     x_handle = e["author"].get("xHandle")
     source_url = e.get("sourceUrl")
@@ -262,7 +277,7 @@ def render_entry(s: Strings, lang: str, e: dict, n: int) -> str:
     parts.append(f'*{s.by_author} {author_md}*')
     parts.append("")
     parts.append(f'<a id="{e["id"]}"></a>')
-    parts.append(f'<p align="center"><a href="{e["image"]}"><img src="{e["image"]}" width="640" alt="{title}"/></a></p>')
+    parts.append(f'<p align="center"><a href="{e["image"]}"><img src="{e["image"]}" width="640" alt="{title_attr}"/></a></p>')
     parts.append("")
     parts.append('<details>')
     parts.append(f'<summary><b>{s.prompt_label}</b> — {s.show_prompt}</summary>')
@@ -315,7 +330,7 @@ def render_readme(lang: str, data: dict) -> str:
     if featured:
         out.append(f"## {s.featured_heading}")
         out.append("")
-        out.append(render_hero_mosaic(featured))
+        out.append(render_hero_mosaic(featured, lang))
         out.append("")
 
     out.append(render_toc(s, lang, buckets, ordered_cats))
@@ -325,8 +340,12 @@ def render_readme(lang: str, data: dict) -> str:
         label = labels[cat]
         out.append(f"## {label}")
         out.append("")
-        for e in entries_in_cat:
-            out.append(render_entry(s, lang, e, e["index"]))
+        # Renumber 1..N per category so readers see "this is the Nth of M
+        # in this category" rather than gapped global indices (e.g. 03→11).
+        # The anchor (e["id"]) is unchanged, so external deep-links stay
+        # stable regardless of renumbering.
+        for i, e in enumerate(entries_in_cat, 1):
+            out.append(render_entry(s, lang, e, i))
 
     out.append(f"## {s.contributing_heading}")
     out.append("")
@@ -336,9 +355,14 @@ def render_readme(lang: str, data: dict) -> str:
     out.append("")
     out.append(s.license_body)
     out.append("")
+    model = data["model"]
+    edition_line = (
+        f"Edition {model['editionNumber']} · {model['releaseDate']} · "
+        f"{len(entries)} prompts"
+    )
     out.append(
-        f'<p align="center"><sub>Curated with care by the team at '
-        f'<a href="{TOSEA_HOME_URL}">Tosea.ai</a> · '
+        f'<p align="center"><sub>{edition_line} · '
+        f'Curated by <a href="{TOSEA_HOME_URL}">Tosea.ai</a> · '
         f'Auto-generated from <code>prompts.json</code>.</sub></p>'
     )
     out.append("")

@@ -18,15 +18,15 @@ A curated, open-source collection of production-grade prompts for **OpenAI's GPT
 ## Featured
 
 <table align="center"><tr>
-<td align="center" width="25%"><a href="#01-a-photorealistic-capture-of"><img src="images/01.jpg" width="220" alt="01-a-photorealistic-capture-of"/></a></td>
-<td align="center" width="25%"><a href="#02-create-a-polished-email"><img src="images/02.jpg" width="220" alt="02-create-a-polished-email"/></a></td>
-<td align="center" width="25%"><a href="#03-please-create-an-infographic"><img src="images/03.jpg" width="220" alt="03-please-create-an-infographic"/></a></td>
-<td align="center" width="25%"><a href="#04-d-chibi-style-miniature"><img src="images/04.jpg" width="220" alt="04-d-chibi-style-miniature"/></a></td>
+<td align="center" width="25%"><a href="#01-a-photorealistic-capture-of"><img src="images/01.jpg" width="220" alt="A photorealistic capture of chaotic youth frozen in"/></a></td>
+<td align="center" width="25%"><a href="#02-create-a-polished-email"><img src="images/02.jpg" width="220" alt="Create a polished email sequence template for fenty beauty"/></a></td>
+<td align="center" width="25%"><a href="#03-please-create-an-infographic"><img src="images/03.jpg" width="220" alt="Please create an infographic based on the input"/></a></td>
+<td align="center" width="25%"><a href="#04-d-chibi-style-miniature"><img src="images/04.jpg" width="220" alt="3D chibi-style miniature concept store of {Brand Name}"/></a></td>
 </tr><tr>
-<td align="center" width="25%"><a href="#05-please-create-a-vibrant"><img src="images/05.jpg" width="220" alt="05-please-create-a-vibrant"/></a></td>
-<td align="center" width="25%"><a href="#06-an-ingame-screenshot-of"><img src="images/06.jpg" width="220" alt="06-an-ingame-screenshot-of"/></a></td>
-<td align="center" width="25%"><a href="#07-meta-image-quality-very"><img src="images/07.jpg" width="220" alt="07-meta-image-quality-very"/></a></td>
-<td align="center" width="25%"><a href="#08-a-traditional-chinese-ink"><img src="images/08.jpg" width="220" alt="08-a-traditional-chinese-ink"/></a></td>
+<td align="center" width="25%"><a href="#05-please-create-a-vibrant"><img src="images/05.jpg" width="220" alt="Please create a vibrant, child-like crayon-style vertical (9:16)"/></a></td>
+<td align="center" width="25%"><a href="#06-an-ingame-screenshot-of"><img src="images/06.jpg" width="220" alt="An ingame screenshot of rust"/></a></td>
+<td align="center" width="25%"><a href="#07-meta-image-quality-very"><img src="images/07.jpg" width="220" alt="人物"/></a></td>
+<td align="center" width="25%"><a href="#08-a-traditional-chinese-ink"><img src="images/08.jpg" width="220" alt="A traditional Chinese ink and color painting in Gongbi style on…"/></a></td>
 </tr></table>
 
 ## Table of Contents
@@ -60,7 +60,7 @@ A photorealistic capture of chaotic youth frozen in time, featuring a beautiful 
 
 ---
 
-### 07. 人物
+### 02. 人物
 
 *by [**Heisenberg**](https://t.co/XnASzxu1O1)*
 
@@ -80,7 +80,7 @@ A photorealistic capture of chaotic youth frozen in time, featuring a beautiful 
 
 ---
 
-### 08. A traditional Chinese ink and color painting in Gongbi style on…
+### 03. A traditional Chinese ink and color painting in Gongbi style on…
 
 *by [**宝玉**](https://t.co/9LMAC9R2Rv)*
 
@@ -100,7 +100,7 @@ A traditional Chinese ink and color painting in Gongbi style on aged rice paper 
 
 ---
 
-### 10. Professional studio fashion photography, ultra-clean high-end d…
+### 04. Professional studio fashion photography, ultra-clean high-end d…
 
 *by [**BubbleBrain**](https://t.co/JfSKdoNAMo)*
 
@@ -120,7 +120,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### 14. 黑神话 钟馗
+### 05. 黑神话 钟馗
 
 *by [**苏打白.Dev**](https://t.co/zUFRPc7DKu)*
 
@@ -140,7 +140,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### 26. long-sleeve fitted V-neck dress or top
+### 06. long-sleeve fitted V-neck dress or top
 
 *by [**Kate Deyneka**](https://t.co/8ZzTjItjtM)*
 
@@ -160,7 +160,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### 29. real human female face
+### 07. real human female face
 
 *by [**Muhammad Ayan**](https://t.co/1oaXpSoBic)*
 
@@ -180,7 +180,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### 38. Reframe this image to show the behind the scenes.
+### 08. Reframe this image to show the behind the scenes.
 
 *by [**A.I.Warper**](https://t.co/STYPuT94Hn)*
 
@@ -200,7 +200,7 @@ reframe this image to show the behind the scenes. A photo taken from a third par
 
 ---
 
-### 42. A photo of a computer screen displaying a Spotify playlist at n…
+### 09. A photo of a computer screen displaying a Spotify playlist at n…
 
 *by [**Pietro Schirano**](https://t.co/Rbq4WTM0kc)*
 
@@ -222,7 +222,7 @@ A photo of a computer screen displaying a Spotify playlist at night
 
 ## Poster & Editorial
 
-### 09. A striking Spring 2026 city poster for Boston
+### 01. A striking Spring 2026 city poster for Boston
 
 *by [**BubbleBrain**](https://t.co/ZCjJjikIeT)*
 
@@ -242,7 +242,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### 16. A premium, hand-crafted illustrated recipe poster titled “CLASS…
+### 02. A premium, hand-crafted illustrated recipe poster titled “CLASS…
 
 *by [**Ai Girllie**](https://t.co/S9ch8JM6Vk)*
 
@@ -262,7 +262,7 @@ A premium, hand-crafted illustrated recipe poster titled “CLASSIC AMERICAN APP
 
 ---
 
-### 22. Create a poster for a fictional anime movie using GPT image2.
+### 03. Create a poster for a fictional anime movie using GPT image2.
 
 *by [**SEIIIRU😈動画生成AIを使う映像クリエイター**](https://t.co/YX0ScJWk55)*
 
@@ -282,7 +282,7 @@ Create a poster for a fictional anime movie using GPT image2.
 
 ---
 
-### 34. Create a visually stunning educational infographic explaining M…
+### 04. Create a visually stunning educational infographic explaining M…
 
 *by [**1LittleCoder💻**](https://t.co/Kn4hZoP7iR)*
 
@@ -302,7 +302,7 @@ Create a visually stunning educational infographic explaining Magnus Effect in a
 
 ---
 
-### 37. Create a Science fiction movie poster
+### 05. Create a Science fiction movie poster
 
 *by [**underwood**](https://t.co/RYeICaD6L0)*
 
@@ -322,7 +322,7 @@ Create a Science fiction movie poster
 
 ---
 
-### 43. ・Refer to 1 character image ・Poster for the fictional cartoon a…
+### 06. ・Refer to 1 character image ・Poster for the fictional cartoon a…
 
 *by [**🗯️RelaxBeatsLab™︎**](https://t.co/TkQ5dvBAZg)*
 
@@ -342,7 +342,7 @@ Create a Science fiction movie poster
 
 ---
 
-### 51. 1960s French New Wave theatrical poster, bold photomontage
+### 07. 1960s French New Wave theatrical poster, bold photomontage
 
 *by [**宝玉**](https://t.co/chr7nNcHNS)*
 
@@ -362,7 +362,7 @@ Create a Science fiction movie poster
 
 ---
 
-### 58. Post-apocalyptic ruin, but like a luxury real estate brochure
+### 08. Post-apocalyptic ruin, but like a luxury real estate brochure
 
 *by [**Kazım Taşkın**](https://t.co/Xtri6P1U7b)*
 
@@ -382,7 +382,7 @@ Post-apocalyptic ruin, but like a luxury real estate brochure
 
 ---
 
-### 60. A refined 2026 New York City promotional poster with a bold yet…
+### 09. A refined 2026 New York City promotional poster with a bold yet…
 
 *by [**Hermes Changelog**](https://t.co/Ed5Dike2Tm)*
 
@@ -404,7 +404,7 @@ A refined 2026 New York City promotional poster with a bold yet elegant metropol
 
 ## Infographic & Information Design
 
-### 03. Please create an infographic based on the input
+### 01. Please create an infographic based on the input
 
 *by [**宝玉**](https://t.co/XpBQ4DQrUp)*
 
@@ -424,7 +424,7 @@ Please create an infographic based on the input content, highlighting key themes
 
 ---
 
-### 11. Create step-by-step recipe infographic for creamy garlic mushro…
+### 02. Create step-by-step recipe infographic for creamy garlic mushro…
 
 *by [**Ege**](https://t.co/eo7Qm21XD0)*
 
@@ -444,7 +444,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ---
 
-### 13. Create a 10 × 10 grid of 100
+### 03. Create a 10 × 10 grid of 100
 
 *by [**proper**](https://t.co/clpekLD0KH)*
 
@@ -464,7 +464,7 @@ Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pi
 
 ---
 
-### 17. Please create a cartoon-style infographic based on the
+### 04. Please create a cartoon-style infographic based on the
 
 *by [**宝玉**](https://t.co/TUu5bu52Lp)*
 
@@ -484,7 +484,7 @@ Please create a cartoon-style infographic based on the provided content, followi
 
 ---
 
-### 21. A professional screenshot of a TikTok creator in-app
+### 05. A professional screenshot of a TikTok creator in-app
 
 *by [**Mark Kretschmann**](https://t.co/b596y29yUM)*
 
@@ -504,12 +504,12 @@ A professional screenshot of a TikTok creator in-app message interface from a mo
 
 ---
 
-### 23. Generate a high-quality vertical "science popularization encycl…
+### 06. Generate a high-quality vertical "science popularization encycl…
 
 *by [**Fanis**](https://t.co/3UGGmP2NwA)*
 
 <a id="23-generate-a-high-quality"></a>
-<p align="center"><a href="images/23.jpg"><img src="images/23.jpg" width="640" alt="Generate a high-quality vertical "science popularization encycl…"/></a></p>
+<p align="center"><a href="images/23.jpg"><img src="images/23.jpg" width="640" alt="Generate a high-quality vertical &quot;science popularization encycl…"/></a></p>
 
 <details>
 <summary><b>Prompt</b> — Show full prompt</summary>
@@ -524,7 +524,7 @@ Generate a high-quality vertical "science popularization encyclopedia image" bas
 
 ---
 
-### 27. Search the web for the latest and most accurate information fro…
+### 07. Search the web for the latest and most accurate information fro…
 
 *by [**Alex Patrascu**](https://x.com/maxescu/status/2045096239713394862)*
 
@@ -544,7 +544,7 @@ Search the web for the latest and most accurate information from today, April 17
 
 ---
 
-### 30. An oil painting in the exact style of
+### 08. An oil painting in the exact style of
 
 *by [**fabian**](https://t.co/Dmsn7GYeef)*
 
@@ -564,7 +564,7 @@ An oil painting in the exact style of Pablo Picasso — combining Cubist fragmen
 
 ---
 
-### 31. Prepare a travel guide infographic for Istanbul that
+### 09. Prepare a travel guide infographic for Istanbul that
 
 *by [**ai.gezgini**](https://t.co/K2Wm0v9Bqv)*
 
@@ -584,7 +584,7 @@ Prepare a travel guide infographic for Istanbul that includes short and concise 
 
 ---
 
-### 32. Create a detailed infographic about Hagia Sophia, add notations…
+### 10. Create a detailed infographic about Hagia Sophia, add notations…
 
 *by [**ai.gezgini**](https://t.co/HvgZRlBXOd)*
 
@@ -604,7 +604,7 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 ---
 
-### 35. - Generating accurate text in images, across multiple
+### 11. - Generating accurate text in images, across multiple
 
 *by [**Katia Gil Guzman**](https://t.co/eXR9hRgTr7)*
 
@@ -624,7 +624,7 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 ---
 
-### 36. authentic IKEA instruction manual page
+### 12. authentic IKEA instruction manual page
 
 *by [**Shruti**](https://t.co/j0JSd7MqGY)*
 
@@ -644,7 +644,7 @@ Create a detailed infographic about Hagia Sophia, add notations on a realistic i
 
 ---
 
-### 39. create an infographic about the reign of Philip II, at the heig…
+### 13. create an infographic about the reign of Philip II, at the heig…
 
 *by [**OscarAI**](https://t.co/9ILtBvNKX7)*
 
@@ -664,7 +664,7 @@ create an infographic about the reign of Philip II, at the height of the Spanish
 
 ---
 
-### 40. a satellite map of London, showing a close up of the area aroun…
+### 14. a satellite map of London, showing a close up of the area aroun…
 
 *by [**fofr**](https://t.co/g22VELwevN)*
 
@@ -684,7 +684,7 @@ a satellite map of London, showing a close up of the area around Big Ben
 
 ---
 
-### 41. Create an image with 10x10 grid of objects that have the names…
+### 15. Create an image with 10x10 grid of objects that have the names…
 
 *by [**Umesh**](https://t.co/AUKgSNjeOW)*
 
@@ -704,7 +704,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 ---
 
-### 48. 设计一张2026年4月16日的老黄历
+### 16. 设计一张2026年4月16日的老黄历
 
 *by [**WY**](https://t.co/cGgQ3Quw6J)*
 
@@ -724,7 +724,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 ---
 
-### 49. Based on everything you know about me, make
+### 17. Based on everything you know about me, make
 
 *by [**宝玉**](https://t.co/6x0DHb2MCQ)*
 
@@ -744,7 +744,7 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 ---
 
-### 50. 请根据【主题】生成一张高质量竖版「科普百科图」。
+### 18. 请根据【主题】生成一张高质量竖版「科普百科图」。
 
 *by [**Larus Canus**](https://t.co/QHov2LPflT)*
 
@@ -764,7 +764,7 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 ---
 
-### 53. - Best-in-class text recognition; nearly perfect, only minor
+### 19. - Best-in-class text recognition; nearly perfect, only minor
 
 *by [**Eli5DeFi**](https://t.co/49Eo2nj69e)*
 
@@ -784,7 +784,7 @@ Based on everything you know about me, make a character sheet of shonen-style an
 
 ---
 
-### 54. Make a detailed step by step timeline of
+### 20. Make a detailed step by step timeline of
 
 *by [**Glenn Williams**](https://t.co/yUttjisfy1)*
 
@@ -804,7 +804,7 @@ Make a detailed step by step timeline of a bed time routine from 9PM to 10PM, in
 
 ---
 
-### 55. A photorealistic, taken by phone photo of a
+### 21. A photorealistic, taken by phone photo of a
 
 *by [**Chetaslua**](https://t.co/PlQnnZfORL)*
 
@@ -824,7 +824,7 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 ---
 
-### 56. A detailed cutaway drawing of a Boeing 747
+### 22. A detailed cutaway drawing of a Boeing 747
 
 *by [**bing howenstein**](https://t.co/uyMZ3DPIoP)*
 
@@ -846,7 +846,7 @@ A detailed cutaway drawing of a Boeing 747
 
 ## Social Media & Branding
 
-### 02. Create a polished email sequence template for fenty beauty
+### 01. Create a polished email sequence template for fenty beauty
 
 *by [**Salma**](https://t.co/ExdwLNyvbT)*
 
@@ -866,7 +866,7 @@ A detailed cutaway drawing of a Boeing 747
 
 ---
 
-### 15. Create a polished multi-page (multiple images) brand kitfor a c…
+### 02. Create a polished multi-page (multiple images) brand kitfor a c…
 
 *by [**RIO**](https://t.co/DvVbnrVeD9)*
 
@@ -886,7 +886,7 @@ Create a polished multi-page (multiple images) brand kitfor a company called YOY
 
 ---
 
-### 19. Editorial fashion lookbook, 4:5 aspect ratio, for a fictional b…
+### 03. Editorial fashion lookbook, 4:5 aspect ratio, for a fictional b…
 
 *by [**Justin Rands**](https://t.co/s9xIhjENm8)*
 
@@ -906,7 +906,7 @@ Editorial fashion lookbook, 4:5 aspect ratio, for a fictional brandcalled VINCO.
 
 ---
 
-### 24. Create a detailed summer banner ad for an Italian soda.
+### 04. Create a detailed summer banner ad for an Italian soda.
 
 *by [**Fanis**](https://t.co/RphjDsEqge)*
 
@@ -926,7 +926,7 @@ Create a detailed summer banner ad for an Italian soda. Research for the most tr
 
 ---
 
-### 25. Photorealistic bold beauty campaign using uploaded model as exa…
+### 05. Photorealistic bold beauty campaign using uploaded model as exa…
 
 *by [**Fanis**](https://t.co/MHnI1PTouA)*
 
@@ -946,12 +946,12 @@ Photorealistic bold beauty campaign using uploaded model as exact identity refer
 
 ---
 
-### 45. 一张[瑞士/日式/北欧/法式]简约设计的"都市牛马一周穿搭指南"信息图，超高清8K分辨率,顶级商业时尚摄影风格。
+### 06. 一张[瑞士/日式/北欧/法式]简约设计的"都市牛马一周穿搭指南"信息图，超高清8K分辨率,顶级商业时尚摄影风格。
 
 *by [**沐阳**](https://t.co/e7RWd3P6AC)*
 
 <a id="45-k-monday-tuesday-wednesday"></a>
-<p align="center"><a href="images/45.jpg"><img src="images/45.jpg" width="640" alt="一张[瑞士/日式/北欧/法式]简约设计的"都市牛马一周穿搭指南"信息图，超高清8K分辨率,顶级商业时尚摄影风格。"/></a></p>
+<p align="center"><a href="images/45.jpg"><img src="images/45.jpg" width="640" alt="一张[瑞士/日式/北欧/法式]简约设计的&quot;都市牛马一周穿搭指南&quot;信息图，超高清8K分辨率,顶级商业时尚摄影风格。"/></a></p>
 
 <details>
 <summary><b>Prompt</b> — Show full prompt</summary>
@@ -966,7 +966,7 @@ Photorealistic bold beauty campaign using uploaded model as exact identity refer
 
 ---
 
-### 46. Redesign this product advertisement from the perspective of a p…
+### 07. Redesign this product advertisement from the perspective of a p…
 
 *by [**GENEL | AIを用いた動画制作**](https://t.co/mKM9bmC2LC)*
 
@@ -986,7 +986,7 @@ Redesign this product advertisement from the perspective of a professional desig
 
 ---
 
-### 47. Create an ad for iced coffee.
+### 08. Create an ad for iced coffee.
 
 *by [**KAWAI**](https://t.co/XQg0qPJfp8)*
 
@@ -1006,7 +1006,7 @@ Create an ad for iced coffee. A stylish, modern Japanese design. Dynamically lai
 
 ---
 
-### 59. Create a hyper-realistic Japanese-style futuristic product adve…
+### 09. Create a hyper-realistic Japanese-style futuristic product adve…
 
 *by [**Marcio Lima 利真 マルシオ 💎**](https://t.co/MIGv7iv2OZ)*
 
@@ -1028,7 +1028,7 @@ Create a hyper-realistic Japanese-style futuristic product advertisement, insane
 
 ## Comic & Illustration
 
-### 05. Please create a vibrant, child-like crayon-style vertical (9:16)
+### 01. Please create a vibrant, child-like crayon-style vertical (9:16)
 
 *by [**宝玉**](https://t.co/YNuFVnJopP)*
 
@@ -1048,7 +1048,7 @@ Please create a vibrant, child-like crayon-style vertical (9:16) illustration ti
 
 ---
 
-### 12. Highly detailed, hand-drawn crowded search-and-find illustratio…
+### 02. Highly detailed, hand-drawn crowded search-and-find illustratio…
 
 *by [**Kris Kashtanova**](https://t.co/DkZT0KeTC5)*
 
@@ -1068,7 +1068,7 @@ Highly detailed, hand-drawn crowded search-and-find illustration, vertical compo
 
 ---
 
-### 33. Show me a photo taken of pages 113-114 from the books：Eldritch…
+### 03. Show me a photo taken of pages 113-114 from the books：Eldritch…
 
 *by [**Ethan Mollick**](https://t.co/tdnnBvZAj2)*
 
@@ -1088,7 +1088,7 @@ Show me a photo taken of pages 113-114 from the books：Eldritch Horrors as Pets
 
 ---
 
-### 44. Copy the exact same writing style and continue the text in a hu…
+### 04. Copy the exact same writing style and continue the text in a hu…
 
 *by [**Ozan Sihay**](https://t.co/h8K8no0wfy)*
 
@@ -1108,7 +1108,7 @@ Copy the exact same writing style and continue the text in a humorous way.
 
 ---
 
-### 52. Generate a full color Chinese-text manga about this
+### 05. Generate a full color Chinese-text manga about this
 
 *by [**宝玉**](https://t.co/chr7nNcHNS)*
 
@@ -1130,7 +1130,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 ## UI & Mockup
 
-### 04. 3D chibi-style miniature concept store of {Brand Name}
+### 01. 3D chibi-style miniature concept store of {Brand Name}
 
 *by [**宝玉**](https://t.co/ACdkBfpMwo)*
 
@@ -1150,7 +1150,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 ---
 
-### 06. An ingame screenshot of rust
+### 02. An ingame screenshot of rust
 
 *by [**Fix**](https://t.co/AvxjuwJnVK)*
 
@@ -1170,7 +1170,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 ---
 
-### 18. Enter a company name or stock ticker to
+### 03. Enter a company name or stock ticker to
 
 *by [**宝玉**](https://t.co/6Q0sWISag1)*
 
@@ -1190,7 +1190,7 @@ Enter a company name or stock ticker to generate an exquisite, miniature isometr
 
 ---
 
-### 20. Please generate me a screenshot of a palintir-style
+### 04. Please generate me a screenshot of a palintir-style
 
 *by [**Dan Woods**](https://t.co/g3GS6DbrhY)*
 
@@ -1210,7 +1210,7 @@ Please generate me a screenshot of a palintir-style dashboard tracking all the f
 
 ---
 
-### 28. Generate a realistic desktop screenshot of Adobe Premiere
+### 05. Generate a realistic desktop screenshot of Adobe Premiere
 
 *by [**Kate Deyneka**](https://t.co/xOZd6BYsUz)*
 
@@ -1230,7 +1230,7 @@ Generate a realistic desktop screenshot of Adobe Premiere
 
 ---
 
-### 57. Miniature Ottoman war, but like the Google Maps live traffic la…
+### 06. Miniature Ottoman war, but like the Google Maps live traffic la…
 
 *by [**kazimtaskin**](https://x.com/kazimtaskin/status/2046717867941408923)*
 
@@ -1258,4 +1258,4 @@ We welcome PRs. **Only edit `prompts.json`** — the READMEs are auto-generated 
 
 This collection is released under [CC BY 4.0](LICENSE). Individual prompts remain the intellectual property of their original authors; we only curate, translate, and categorize.
 
-<p align="center"><sub>Curated with care by the team at <a href="https://tosea.ai">Tosea.ai</a> · Auto-generated from <code>prompts.json</code>.</sub></p>
+<p align="center"><sub>Edition 1 · 2026-04-22 · 60 prompts · Curated by <a href="https://tosea.ai">Tosea.ai</a> · Auto-generated from <code>prompts.json</code>.</sub></p>
