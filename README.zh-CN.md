@@ -13,7 +13,7 @@
 
 为 **OpenAI GPT Image 2** 整理的生产级 prompt 开源合集,按使用场景分类。**所有 prompt 均采集自 X (Twitter) 公开推文,作者姓名链接到原推以示署名。**若您是原作者,希望修改或下架某条,请[提交 Issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml)告知我们。
 
-> 共 59 条 prompt,覆盖 6 个分类. [→ 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2)
+> 共 60 条 prompt,覆盖 6 个分类. [→ 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2)
 
 ## 本期精选
 
@@ -36,7 +36,7 @@
 - [信息图与数据可视化](#信息图与数据可视化) · *22 条*
 - [社媒与品牌](#社媒与品牌) · *9 条*
 - [漫画与插画](#漫画与插画) · *5 条*
-- [UI 与模型稿](#ui-与模型稿) · *5 条*
+- [UI 与模型稿](#ui-与模型稿) · *6 条*
 
 ## 人像与摄影
 
@@ -1227,6 +1227,26 @@ Generate a realistic desktop screenshot of Adobe Premiere
 </details>
 
 [📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop)
+
+---
+
+### 57. Miniature Ottoman war, but like the Google Maps live traffic la…
+
+*作者 [**kazimtaskin**](https://x.com/kazimtaskin/status/2046717867941408923)*
+
+<a id="57-miniature-ottoman-war-but"></a>
+<p align="center"><a href="images/57.jpg"><img src="images/57.jpg" width="640" alt="Miniature Ottoman war, but like the Google Maps live traffic la…"/></a></p>
+
+<details>
+<summary><b>Prompt</b> — 展开完整 prompt</summary>
+
+```text
+Miniature Ottoman war, but like the Google Maps live traffic layer
+```
+
+</details>
+
+[📖 在 Tosea 浏览](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
 
 ---
 

@@ -13,7 +13,7 @@
 
 A curated, open-source collection of production-grade prompts for **OpenAI's GPT Image 2**, organized by use case. **All prompts are gathered from publicly shared posts on X (Twitter) and credited to their original authors — each author's name links to the source post.** If you are an author and want an entry corrected or removed, please [open an issue](https://github.com/ToseaAI/awesome-gpt-image-2-prompts/issues/new?template=add-prompt.yml).
 
-> 59 prompts across 6 categories. [→ View on Tosea](https://tosea.ai/prompts/gpt-image-2)
+> 60 prompts across 6 categories. [→ View on Tosea](https://tosea.ai/prompts/gpt-image-2)
 
 ## Featured
 
@@ -36,7 +36,7 @@ A curated, open-source collection of production-grade prompts for **OpenAI's GPT
 - [Infographic & Information Design](#infographic--information-design) · *22 prompts*
 - [Social Media & Branding](#social-media--branding) · *9 prompts*
 - [Comic & Illustration](#comic--illustration) · *5 prompts*
-- [UI & Mockup](#ui--mockup) · *5 prompts*
+- [UI & Mockup](#ui--mockup) · *6 prompts*
 
 ## Portrait & Photography
 
@@ -1227,6 +1227,26 @@ Generate a realistic desktop screenshot of Adobe Premiere
 </details>
 
 [📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#28-generate-a-realistic-desktop)
+
+---
+
+### 57. Miniature Ottoman war, but like the Google Maps live traffic la…
+
+*by [**kazimtaskin**](https://x.com/kazimtaskin/status/2046717867941408923)*
+
+<a id="57-miniature-ottoman-war-but"></a>
+<p align="center"><a href="images/57.jpg"><img src="images/57.jpg" width="640" alt="Miniature Ottoman war, but like the Google Maps live traffic la…"/></a></p>
+
+<details>
+<summary><b>Prompt</b> — Show full prompt</summary>
+
+```text
+Miniature Ottoman war, but like the Google Maps live traffic layer
+```
+
+</details>
+
+[📖 View on Tosea](https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but)
 
 ---
 

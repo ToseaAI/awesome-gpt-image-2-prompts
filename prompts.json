@@ -1305,6 +1305,30 @@
       "toseaUrl": "https://tosea.ai/prompts/gpt-image-2#56-a-detailed-cutaway-drawing"
     },
     {
+      "index": 57,
+      "id": "57-miniature-ottoman-war-but",
+      "title": {
+        "en": "Miniature Ottoman war, but like the Google Maps live traffic la…",
+        "zh": "Miniature Ottoman war, but like the Google Maps live traffic la…"
+      },
+      "category": "ui",
+      "author": {
+        "displayName": "kazimtaskin",
+        "xHandle": "kazimtaskin"
+      },
+      "sourceUrl": "https://x.com/kazimtaskin/status/2046717867941408923",
+      "image": "images/57.jpg",
+      "description": {
+        "en": "Miniature Ottoman war, but like the Google Maps live traffic layer",
+        "zh": "Miniature Ottoman war, but like the Google Maps live traffic layer"
+      },
+      "prompt": "Miniature Ottoman war, but like the Google Maps live traffic layer",
+      "promptType": "prose",
+      "featured": false,
+      "publishedAt": "2026-04-22",
+      "toseaUrl": "https://tosea.ai/prompts/gpt-image-2#57-miniature-ottoman-war-but"
+    },
+    {
       "index": 58,
       "id": "58-post-apocalyptic-ruin-but",
       "title": {
